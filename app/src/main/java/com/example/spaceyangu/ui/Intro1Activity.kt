@@ -21,5 +21,7 @@ class Intro1Activity: AppCompatActivity() {
     override fun onCreate(savedInstanceState:Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.intro_1)
+
+        _nxt__logo = findViewById(R.id.logo)
     }
 }
