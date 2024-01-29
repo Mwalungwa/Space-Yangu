@@ -11,4 +11,5 @@
     <string name="skip_button">Skip</string>
 	<string name="sign_up_button">Sign Up</string>
 	<string name="sign_in_button">Sign In</string>
+    <string name="intro_2_entry">You\'re officially part of the spark! Light up our community with your presence</string>
 </resources>
