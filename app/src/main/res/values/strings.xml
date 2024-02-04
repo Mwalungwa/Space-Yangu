@@ -5,11 +5,11 @@
 	<string name="app_name">Space Yangu</string>
 	<string name="ek_img_content">ExportKit Image</string>
 	<string name="title">SPACE YANGU</string>
-	<string name="intro_1_entry">Blooming with hope, hand in hand,welcome to a space of connection and healing</string>
+	<string name="intro_1_entry">Blooming with hope,\nhand in hand,\nwelcome to a space\nof\nconnection\nand\nhealing</string>
     <string name="start_entry">READY TO EXPLORE? \n SPACE YANGU AWAITS</string>
 	<string name="next_button">Next</string>
     <string name="skip_button">Skip</string>
 	<string name="sign_up_button">Sign Up</string>
 	<string name="sign_in_button">Sign In</string>
-    <string name="intro_2_entry">You\'re officially part of the spark! Light up our community with your presence</string>
+    <string name="intro_2_entry">You\'re officially part of the spark!\nLight up our community with your presence</string>
 </resources>

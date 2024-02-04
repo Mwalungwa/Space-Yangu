@@ -26,8 +26,8 @@
 
 	<TextView
 		android:id="@+id/intro_1_entry"
-		android:layout_width="267dp"
-		android:layout_height="185dp"
+		android:layout_width="310dp"
+		android:layout_height="wrap_content"
 		android:layout_gravity="center_horizontal|center"
 		android:layout_marginTop="8dp"
 		android:alpha="0.3"
@@ -35,7 +35,9 @@
 		android:text="@string/intro_1_entry"
 		android:textAllCaps="true"
 		android:textColor="@color/text_color_1"
-		android:textSize="20sp"
+		android:textSize="25sp"
+		android:textFontWeight="900"
+		android:lineHeight="35dp"
 		app:layout_constraintEnd_toEndOf="@+id/space_yangu"
 		app:layout_constraintStart_toStartOf="@+id/space_yangu"
 		app:layout_constraintTop_toBottomOf="@+id/space_yangu" />
@@ -60,13 +62,6 @@
 		app:layout_constraintBottom_toBottomOf="parent"
 		app:layout_constraintEnd_toEndOf="parent" />
 
-
-	<!--	<ImageView-->
-	<!--		android:id="@+id/imageView"-->
-	<!--		android:layout_width="wrap_content"-->
-	<!--		android:layout_height="wrap_content"-->
-	<!--		android:src="@drawable/logo_shape" />-->
-
 	<View
 		android:id="@+id/logo"
 		android:layout_width="81dp"
@@ -79,18 +74,6 @@
 		app:layout_constraintEnd_toEndOf="parent"
 		app:layout_constraintStart_toStartOf="parent"
 		app:layout_constraintTop_toTopOf="parent" />
-
-<!--	<ImageButton-->
-<!--		android:id="@+id/back"-->
-<!--		android:layout_width="45dp"-->
-<!--		android:layout_height="24dp"-->
-<!--		android:layout_marginTop="48dp"-->
-<!--		android:background="@color/_bg_color"-->
-<!--		android:src="@drawable/_back"-->
-<!--		app:layout_constraintEnd_toEndOf="parent"-->
-<!--		app:layout_constraintHorizontal_bias="0.073"-->
-<!--		app:layout_constraintStart_toStartOf="parent"-->
-<!--		app:layout_constraintTop_toTopOf="parent" />-->
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

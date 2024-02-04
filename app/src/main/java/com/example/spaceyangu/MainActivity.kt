@@ -12,7 +12,6 @@ import com.example.spaceyangu.ui.Intro1Activity
 
 class MainActivity : ComponentActivity() {
 
-    private lateinit var _bg__shape: View
     private lateinit var _bg__logo: View
     private lateinit var _space__yangu: TextView
     private lateinit var _start__entry: TextView
@@ -32,7 +31,7 @@ class MainActivity : ComponentActivity() {
                     /* packageContext = */ this@MainActivity,
                     /* cls = */ Intro1Activity::class.java
                 )
-                startActivity(intent);
+                startActivity(intent)
                 if (Build.VERSION.SDK_INT >= 34) {
                     overrideActivityTransition(OVERRIDE_TRANSITION_OPEN,R.anim.slide_in_left, R.anim.slide_out_right)
                 } else {
