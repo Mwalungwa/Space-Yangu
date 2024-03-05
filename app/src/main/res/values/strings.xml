@@ -12,4 +12,11 @@
 	<string name="sign_up_button">Sign Up</string>
 	<string name="sign_in_button">Sign In</string>
     <string name="intro_2_entry">You\'re officially part of the spark!\nLight up our community with your presence</string>
+    <string name="sign_in">Sign In</string>
+	<string name="sign_up">Sign Up</string>
+    <string name="client_button_info">I am signing up as a normal user</string>
+	<string name="therapist_button_info">I am signing up as a professional therapist</string>
+	<string name="signup_client_button">Client</string>
+	<string name="signup_therapist_button">Therapist</string>
+    <string name="client_sign_up">CLIENT SIGN UP</string>
 </resources>

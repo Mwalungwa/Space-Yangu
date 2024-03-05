@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770132367690",
+    "project_id": "space-yangu",
+    "storage_bucket": "space-yangu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770132367690:android:61e9bc134fb232881109b3",
+        "android_client_info": {
+          "package_name": "com.example.spaceyangu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVEEJwB_iaETqPOWFYFQpQQ9_h8TP38TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
